@@ -3,7 +3,7 @@
 
 - Telegram:                           [umidjonxikmatov1120](https://t.me/vague009)
 ## Main tools
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,django,djangorestframework,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,django,fastapi)](https://skillicons.dev)
 
 ## Other tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,vscode,pycharm,postman,photoshop)](https://skillicons.dev)
